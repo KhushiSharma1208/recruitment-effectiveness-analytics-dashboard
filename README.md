@@ -40,18 +40,6 @@ Organizations need to understand which recruitment channels deliver effective hi
 - People Analytics
 - HR Reporting and Dashboarding
 
-## 📂 Project Files
-- `Recruitment_Effectiveness_Dashboard.xlsx` — Excel workbook containing the recruitment dataset, analysis, pivot tables, charts, and dashboard.
-- `README.md` — Project documentation.
-
-## 💡 Business Value
-This project demonstrates how HR data can be converted into actionable recruitment insights. It supports better evaluation of recruitment channels, identification of hiring funnel bottlenecks, and improvement of recruitment efficiency and cost management.
-
-## 👩‍💻 Skills Demonstrated
-People Analytics | Talent Acquisition Analytics | Recruitment Funnel Analysis | HR Metrics | Microsoft Excel | Data Visualization | Business Insights
-
-## ⚠️ Data Disclaimer
-The dataset is included for analytical and demonstration purposes. Any confidential or personally identifiable information should be removed before public sharing.
 
 ## 👤 Author
 Khushi Sharma
